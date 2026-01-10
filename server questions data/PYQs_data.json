@@ -1,0 +1,7963 @@
+{
+
+  "Rajasthan GK PYQ 1": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-09-03",
+    "title": "RSSB & RPSC PYQs (Rajasthan GK) Test 1",
+    "description": "Practice previous year questions of Rajasthan GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+          {
+      "id": 1,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (1).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 2,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (2).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 3,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (3).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 4,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (4).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 5,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (5).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 6,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (6).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 7,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (7).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 8,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (8).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 9,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (9).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 10,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (10).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 11,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (11).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 12,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (12).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 13,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (13).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 14,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (14).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 15,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (15).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 16,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (16).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 17,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (17).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 18,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (18).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 19,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (19).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 20,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (20).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 21,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (21).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 22,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (22).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 23,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (23).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 24,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (24).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 25,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (25).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 26,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (26).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 27,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (27).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 28,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (28).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 29,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (29).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 30,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (30).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 31,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (31).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 32,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (32).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 33,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (33).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 34,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (34).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 35,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (35).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 36,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (36).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 37,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (37).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 38,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (38).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 39,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (39).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 40,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (40).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 41,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (41).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 42,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (42).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 43,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (43).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 44,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (44).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 45,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (45).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 46,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (46).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 47,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (47).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 48,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (48).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 49,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (51).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 50,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (50).jpg",
+      "correctAnswer": "c"
+    }
+    ]
+  },
+  "Rajasthan GK PYQ 2": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-09-03",
+    "title": "RSSB & RPSC PYQs (Rajasthan GK) Test 2",
+    "description": "Practice previous year questions of Rajasthan GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions":[  {
+      "id": 52,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (52).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 53,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (53).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 54,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (54).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 55,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (55).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 56,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (56).jpg",
+      "correctAnswer": ""
+    },
+    {
+      "id": 57,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (57).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 58,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (58).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 59,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (59).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 60,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (60).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 61,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (61).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 62,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (62).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 63,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (63).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 64,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (64).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 65,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (65).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 66,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (66).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 67,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (67).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 68,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (68).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 69,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (69).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 70,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (70).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 71,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (71).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 72,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (72).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 73,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (73).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 74,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (74).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 75,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (75).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 76,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (76).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 77,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (77).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 78,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (78).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 79,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (79).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 80,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (80).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 81,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (81).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 82,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (82).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 83,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (83).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 84,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (84).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 85,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (85).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 86,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (86).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 87,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (87).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 88,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (88).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 89,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (89).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 90,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (90).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 91,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (91).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 92,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (92).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 93,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (93).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 94,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (94).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 95,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (95).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 96,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (96).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 97,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (97).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 98,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (98).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 99,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (99).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 100,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (100).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 101,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (101).jpg",
+      "correctAnswer": "c"
+    }]
+  },
+  "Rajasthan GK PYQ 3": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-09-04",
+    "title": "RSSB & RPSC PYQs (Rajasthan GK) Test 3",
+    "description": "Practice previous year questions of Rajasthan GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+    {
+      "id": 103,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (103).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 104,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (104).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 105,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (105).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 106,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (106).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 107,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (107).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 108,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (108).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 109,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (109).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 110,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (110).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 111,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (111).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 112,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (112).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 113,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (113).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 114,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (114).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 115,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (115).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 116,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (116).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 117,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (117).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 118,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (118).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 119,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (119).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 120,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (120).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 121,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (121).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 122,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (122).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 123,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (123).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 124,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (124).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 125,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (125).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 126,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (126).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 127,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (127).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 128,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (128).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 129,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (129).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 130,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (130).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 131,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (131).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 132,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (132).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 133,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (133).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 134,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (134).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 135,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (135).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 136,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (136).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 137,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (137).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 138,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (138).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 139,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (139).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 140,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (140).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 141,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (141).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 142,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (142).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 143,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (143).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 144,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (144).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 145,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (145).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 146,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (146).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 147,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (147).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 148,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (148).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 149,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (149).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 150,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (150).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 151,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (151).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 152,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (152).jpg",
+      "correctAnswer": "c"
+    }
+    ]
+  },
+  "Rajasthan GK PYQ 4": {
+   "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-09-04",
+    "title": "RSSB & RPSC PYQs (Rajasthan GK) Test 4",
+    "description": "Practice previous year questions of Rajasthan GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+        
+    {
+      "id": 154,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (154).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 155,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (155).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 156,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (156).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 157,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (157).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 158,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (158).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 159,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (159).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 160,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (160).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 161,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (161).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 162,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (162).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 163,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (163).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 164,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (164).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 165,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (165).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 166,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (166).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 167,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (167).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 168,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (168).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 169,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (169).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 170,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (170).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 171,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (171).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 172,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (172).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 173,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (173).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 174,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (174).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 175,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (175).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 176,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (176).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 177,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (177).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 178,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (178).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 179,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (179).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 180,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (180).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 181,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (181).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 182,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (182).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 183,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (183).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 184,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (184).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 185,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (185).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 186,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (186).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 187,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (187).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 188,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (188).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 189,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (189).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 190,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (190).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 191,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (191).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 192,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (192).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 193,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (193).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 194,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (194).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 195,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (195).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 196,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (196).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 197,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (197).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 198,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (198).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 199,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (199).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 200,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (200).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 201,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (201).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 202,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (202).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 203,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (203).jpg",
+      "correctAnswer": "b"
+    }
+    ]
+  },
+  "Rajasthan GK PYQ 5": {
+   "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-09-05",
+    "title": "RSSB & RPSC PYQs (Rajasthan GK) Test 5",
+    "description": "Practice previous year questions of Rajasthan GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+     
+    {
+      "id": 205,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (205).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 206,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (206).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 207,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (207).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 208,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (208).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 209,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (209).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 210,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (210).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 211,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (211).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 212,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (212).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 213,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (213).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 214,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (214).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 215,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (215).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 216,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (216).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 217,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (217).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 218,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (218).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 219,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (219).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 220,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (220).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 221,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (221).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 222,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (222).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 223,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (223).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 224,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (224).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 225,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (225).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 226,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (226).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 227,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (227).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 228,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (228).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 229,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (229).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 230,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (230).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 231,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (231).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 232,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (232).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 233,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (233).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 234,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (234).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 235,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (235).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 236,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (236).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 237,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (237).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 238,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (238).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 239,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (239).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 240,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (240).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 241,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (241).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 242,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (242).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 243,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (243).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 244,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (244).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 245,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (245).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 246,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (246).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 247,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (247).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 248,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (248).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 249,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (249).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 250,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (250).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 251,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (251).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 252,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (252).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 253,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (253).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 254,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (254).jpg",
+      "correctAnswer": "a"
+    }]
+  },
+  "Rajasthan GK PYQ 6": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-09-05",
+    "title": "RSSB & RPSC PYQs (Rajasthan GK) Test 6",
+    "description": "Practice previous year questions of Rajasthan GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+       {
+      "id": 102,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (102).jpg",
+      "correctAnswer": "a"
+    },{
+      "id": 153,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (153).jpg",
+      "correctAnswer": "a"
+    },{
+      "id": 204,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (204).jpg",
+      "correctAnswer": "a"
+    },{
+      "id": 255,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (255).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 256,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (256).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 257,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (257).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 258,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (258).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 259,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (259).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 260,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (260).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 261,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (261).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 262,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (262).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 263,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (263).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 264,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (264).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 265,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (265).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 266,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (266).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 267,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (267).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 268,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (268).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 269,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (269).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 270,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (270).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 271,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (271).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 272,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (272).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 273,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (273).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 274,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (274).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 275,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (275).jpg",
+      "correctAnswer": ""
+    },
+    {
+      "id": 276,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (276).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 277,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (277).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 278,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (278).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 279,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (279).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 280,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (280).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 281,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (281).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 282,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (282).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 283,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (283).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 284,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (284).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 285,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (285).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 286,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (286).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 287,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (287).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 288,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (288).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 289,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (289).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 290,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (290).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 291,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (291).jpg",
+      "correctAnswer": "d"
+    },
+    {
+      "id": 292,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (292).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 293,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (293).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 294,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (294).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 295,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (295).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 296,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (296).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 297,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (297).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 298,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (298).jpg",
+      "correctAnswer": "b"
+    },
+    {
+      "id": 299,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (299).jpg",
+      "correctAnswer": "c"
+    },
+    {
+      "id": 300,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (300).jpg",
+      "correctAnswer": "a"
+    },
+    {
+      "id": 301,
+      "imageUrl": "PYQs/RGK_PYQs/RGK_PYQ (301).jpg",
+      "correctAnswer": "d"
+    }]
+  },
+  "Indian GK PYQ TEST 1": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 1",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 954,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1616).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 349,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1010).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 151,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (812).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 652,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1313).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 979,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1641).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 962,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1624).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1180,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1856).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 324,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (985).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1039,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1705).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 398,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1059).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 506,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1167).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1170,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1845).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 262,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (923).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1017,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1681).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 190,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (851).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 86,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (747).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 634,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1295).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 533,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1194).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 932,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1594).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1060,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1729).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 444,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1105).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 109,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (770).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 575,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1236).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1178,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1854).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 530,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1191).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 458,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1119).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 150,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (811).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 33,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (694).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1159,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1833).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1092,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1764).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 391,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1052).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 305,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (966).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1143,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1816).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 148,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (809).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 712,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1373).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 485,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1146).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 283,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (944).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 128,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (789).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 900,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1562).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 685,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1346).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 640,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1301).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 757,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1418).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 620,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1281).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 278,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (939).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1179,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1855).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 310,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (971).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1100,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1772).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 447,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1108).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 322,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (983).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 329,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (990).jpg",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 2": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 2",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 683,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1344).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 585,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1246).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 944,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1606).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 407,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1068).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 426,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1087).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 387,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1048).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 66,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (727).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 410,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1071).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1071,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1741).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 563,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1224).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 491,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1152).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 790,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1452).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1069,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1739).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1074,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1744).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 167,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (828).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 543,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1204).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1006,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1669).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 668,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1329).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1186,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1862).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 185,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (846).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1084,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1755).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 711,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1372).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 32,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (693).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 704,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1365).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1064,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1733).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 619,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1280).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1181,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1857).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 35,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (696).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 363,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1024).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 344,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1005).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 957,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1619).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 649,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1310).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 730,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1391).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 233,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (894).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 840,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1502).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 794,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1456).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1168,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1843).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 689,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1350).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 596,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1257).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 819,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1481).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 245,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (906).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 443,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1104).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1137,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1810).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 778,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1440).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 513,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1174).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 970,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1632).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 149,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (810).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 745,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1406).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 837,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1499).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 294,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (955).jpg",
+        "correctAnswer": "c"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 3": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 3",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 336,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (997).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 535,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1196).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 367,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1028).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 931,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1593).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 342,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1003).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 504,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1165).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 116,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (777).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 104,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (765).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 816,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1478).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 892,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1554).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 909,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1571).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 863,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1525).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1087,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1758).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 613,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1274).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1004,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1667).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 79,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (740).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 604,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1265).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 688,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1349).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 870,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1532).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 759,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1420).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 869,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1531).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 830,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1492).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1106,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1778).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 152,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (813).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 313,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (974).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 22,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (683).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 346,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1007).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1153,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1827).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 199,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (860).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 271,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (932).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 422,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1083).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 599,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1260).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 496,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1157).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 378,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1039).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 886,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1548).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 762,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1424).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 186,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (847).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 424,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1085).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 559,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1220).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1013,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1676).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 873,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1535).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 862,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1524).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 590,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1251).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 225,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (886).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 84,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (745).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1048,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1716).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1147,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1820).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 239,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (900).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 216,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (877).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 355,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1016).jpg",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 4": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 4",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 1155,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1829).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1063,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1732).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 764,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1426).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 540,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1201).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 871,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1533).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 2,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (663).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 191,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (852).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 678,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1339).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 382,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1043).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 334,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (995).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 227,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (888).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 614,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1275).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 101,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (762).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 174,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (835).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 951,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1613).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 197,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (858).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 659,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1320).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1190,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1866).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 915,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1577).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 188,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (849).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 738,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1399).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 78,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (739).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 274,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (935).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 733,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1394).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 429,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1090).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 158,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (819).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1120,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1792).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 925,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1587).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 748,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1409).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 455,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1116).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 965,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1627).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 235,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (896).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 189,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (850).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 807,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1469).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1054,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1723).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 62,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (723).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 139,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (800).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 920,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1582).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 933,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1595).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 295,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (956).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 701,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1362).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 309,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (970).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 812,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1474).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 292,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (953).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1046,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1714).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 838,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1500).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 419,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1080).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 175,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (836).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1172,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1847).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 551,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1212).jpg",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 5": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 5",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 71,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (732).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 210,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (871).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 164,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (825).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 553,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1214).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 631,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1292).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 469,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1130).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 343,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1004).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 154,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (815).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 574,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1235).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 414,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1075).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 753,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1414).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 207,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (868).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1121,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1793).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 885,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1547).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 518,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1179).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1123,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1795).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1050,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1718).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 941,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1603).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 922,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1584).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 977,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1639).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 857,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1519).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 238,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (899).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 926,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1588).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 889,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1551).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 744,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1405).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 583,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1244).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 90,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (751).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 722,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1383).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 769,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1431).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 100,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (761).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 482,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1143).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 272,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (933).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 248,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (909).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 445,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1106).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 202,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (863).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 514,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1175).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 515,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1176).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1132,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1804).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 806,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1468).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1192,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1868).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 486,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1147).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 987,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1649).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 845,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1507).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 380,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1041).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 602,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1263).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1107,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1779).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1075,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1745).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 626,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1287).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 467,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1128).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 423,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1084).jpg",
+        "correctAnswer": "c"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 6": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 6",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 1141,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1814).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 650,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1311).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 146,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (807).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 178,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (839).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 587,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1248).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 351,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1012).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 368,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1029).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 418,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1079).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 446,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1107).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 331,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (992).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 817,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1479).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 64,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (725).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 610,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1271).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 75,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (736).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1079,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1749).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 348,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1009).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 435,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1096).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 959,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1621).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1065,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1735).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 263,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (924).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1140,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1813).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 232,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (893).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1000,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1662).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 106,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (767).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 268,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (929).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 960,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1622).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 311,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (972).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 488,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1149).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1083,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1753).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 918,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1580).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 96,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (757).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 254,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (915).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 653,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1314).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 441,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1102).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1127,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1799).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 297,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (958).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 972,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1634).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 843,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1505).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 929,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1591).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1036,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1701).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 82,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (743).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 193,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (854).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 665,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1326).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 135,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (796).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 223,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (884).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 498,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1159).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 405,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1066).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 786,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1448).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 950,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1612).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 751,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1412).jpg",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 7": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 7",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 1089,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1761).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1116,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1788).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 586,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1247).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 31,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (692).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 554,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1215).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 976,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1638).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1041,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1707).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 828,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1490).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 23,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (684).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 448,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1109).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1037,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1702).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 12,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (673).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 72,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (733).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 628,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1289).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 127,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (788).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 341,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1002).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1161,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1835).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 520,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1181).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1098,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1770).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 401,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1062).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 934,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1596).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 525,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1186).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 103,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (764).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1185,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1861).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1167,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1842).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 868,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1530).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 439,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1100).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 904,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1566).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 384,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1045).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 321,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (982).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 645,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1306).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 814,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1476).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 365,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1026).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 408,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1069).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1002,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1665).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 157,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (818).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 908,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1570).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 522,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1183).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 177,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (838).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 153,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (814).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 413,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1074).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 57,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (718).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 772,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1434).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 142,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (803).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 411,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1072).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 166,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (827).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1195,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1871).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 499,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1160).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1033,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1698).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 379,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1040).jpg",
+        "correctAnswer": "c"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 8": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 8",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 266,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (927).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 746,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1407).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 70,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (731).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 823,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1485).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 591,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1252).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 995,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1657).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 74,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (735).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 608,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1269).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 345,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1006).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 468,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1129).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 409,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1070).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1152,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1826).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 477,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1138).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 598,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1259).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 859,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1521).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 754,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1415).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 315,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (976).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 417,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1078).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 129,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (790).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 629,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1290).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 494,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1155).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 844,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1506).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 539,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1200).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 287,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (948).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 300,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (961).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 833,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1495).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 961,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1623).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 936,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1598).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1019,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1683).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 369,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1030).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 681,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1342).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 785,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1447).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 755,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1416).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 290,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (951).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 671,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1332).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 767,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1429).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 215,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (876).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 558,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1219).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 997,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1659).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 897,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1559).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 534,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1195).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 172,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (833).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 170,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (831).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1150,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1823).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 521,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1182).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 914,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1576).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1053,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1722).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1157,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1831).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1031,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1696).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 635,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1296).jpg",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 9": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 9",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 230,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (891).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 220,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (881).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 779,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1441).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 667,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1328).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1138,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1811).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 36,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (697).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1058,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1727).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 338,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (999).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 855,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1517).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 27,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (688).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 276,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (937).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 643,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1304).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 633,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1294).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 453,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1114).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 403,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1064).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 776,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1438).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 752,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1413).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 510,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1171).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 919,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1581).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 577,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1238).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 978,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1640).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1076,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1746).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 560,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1221).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 875,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1537).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 578,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1239).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 304,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (965).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 924,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1586).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 440,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1101).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 454,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1115).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 664,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1325).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 181,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (842).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1115,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1787).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 820,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1482).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1009,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1672).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1073,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1743).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 53,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (714).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 264,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (925).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1099,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1771).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 137,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (798).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 180,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (841).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1090,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1762).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 867,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1529).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 340,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1001).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 296,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (957).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1112,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1784).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 912,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1574).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 793,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1455).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 938,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1600).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 9,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (670).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 580,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1241).jpg",
+        "correctAnswer": "a"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 10": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 10",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 1119,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1791).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 877,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1539).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 24,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (685).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 834,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1496).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 949,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1611).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 306,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (967).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 438,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1099).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 108,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (769).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 396,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1057).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 26,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (687).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 97,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (758).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 228,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (889).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 725,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1386).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 842,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1504).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 376,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1037).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 107,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (768).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1122,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1794).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 566,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1227).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 39,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (700).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 999,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1661).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 132,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (793).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 726,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1387).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1055,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1724).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 985,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1647).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 636,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1297).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 277,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (938).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 253,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (914).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 696,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1357).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 967,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1629).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 257,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (918).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 901,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1563).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 576,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1237).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 464,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1125).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1067,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1737).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 861,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1523).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 729,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1390).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 827,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1489).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1104,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1776).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 760,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1421).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 28,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (689).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 415,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1076).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 476,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1137).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 661,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1322).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 968,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1630).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 654,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1315).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 691,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1352).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 465,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1126).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 529,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1190).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 983,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1645).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1043,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1710).jpg",
+        "correctAnswer": "a"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 11": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 11",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 113,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (774).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 523,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1184).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 431,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1092).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 77,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (738).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 713,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1374).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 192,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (853).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1171,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1846).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1111,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1783).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1105,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1777).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 982,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1644).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1128,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1800).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 392,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1053).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 616,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1277).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 750,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1411).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1026,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1691).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1096,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1768).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 85,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (746).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 412,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1073).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 42,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (703).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 246,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (907).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 700,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1361).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 7,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (668).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1139,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1812).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 60,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (721).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 456,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1117).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 742,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1403).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 686,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1347).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 361,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1022).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1011,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1674).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 758,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1419).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 388,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1049).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 549,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1210).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 63,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (724).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 666,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1327).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1158,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1832).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 83,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (744).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1125,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1797).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1142,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1815).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 226,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (887).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 147,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (808).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 603,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1264).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1047,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1715).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 945,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1607).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1061,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1730).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1016,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1680).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1165,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1840).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 623,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1284).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1117,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1789).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1078,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1748).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 432,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1093).jpg",
+        "correctAnswer": "c"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 12": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 12",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 507,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1168).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 935,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1597).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 792,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1454).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 203,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (864).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 697,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1358).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 457,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1118).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 850,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1512).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 308,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (969).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 509,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1170).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 836,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1498).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1183,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1859).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 695,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1356).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 810,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1472).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 275,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (936).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 808,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1470).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 692,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1353).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 773,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1435).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 46,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (707).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 121,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (782).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 282,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (943).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 68,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (729).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 183,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (844).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1131,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1803).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 358,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1019).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 256,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (917).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1197,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1873).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 804,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1466).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 783,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1445).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 179,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (840).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 544,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1205).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 615,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1276).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 280,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (941).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 516,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1177).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 353,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1014).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 528,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1189).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1169,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1844).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 556,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1217).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1101,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1773).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 205,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (866).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 333,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (994).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 420,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1081).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 831,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1493).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1088,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1760).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1196,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1872).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 881,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1543).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 617,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1278).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 169,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (830).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 774,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1436).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 120,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (781).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 802,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1464).jpg",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 13": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 13",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 214,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (875).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 501,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1162).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 832,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1494).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 337,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (998).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 3,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (664).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 784,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1446).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 930,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1592).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 250,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (911).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 618,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1279).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 657,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1318).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1093,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1765).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 903,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1565).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 601,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1262).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 707,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1368).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 732,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1393).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 270,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (931).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 8,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (669).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 988,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1650).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 858,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1520).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 173,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (834).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 49,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (710).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 740,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1401).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 801,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1463).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 231,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (892).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1193,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1869).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1028,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1693).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 279,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (940).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 677,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1338).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 839,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1501).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 307,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (968).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 943,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1605).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 208,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (869).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1056,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1725).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 347,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1008).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 872,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1534).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1094,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1766).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 61,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (722).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 670,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1331).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 573,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1234).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 480,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1141).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 895,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1557).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1102,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1774).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1086,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1757).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 65,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (726).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 242,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (903).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 475,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1136).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 910,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1572).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 765,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1427).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 80,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (741).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 356,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1017).jpg",
+        "correctAnswer": "a"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 14": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 14",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 490,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1151).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 111,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (772).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 511,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1172).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 221,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (882).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 763,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1425).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (662).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 589,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1250).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 126,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (787).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 21,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (682).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 366,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1027).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 639,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1300).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 971,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1633).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1005,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1668).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 928,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1590).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 58,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (719).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 561,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1222).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 824,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1486).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 939,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1601).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 492,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1153).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 648,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1309).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1018,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1682).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 459,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1120).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1109,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1781).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 399,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1060).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1042,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1709).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 658,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1319).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1103,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1775).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 852,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1514).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 883,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1545).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 655,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1316).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 989,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1651).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 44,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (705).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 710,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1371).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 261,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (922).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 795,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1457).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 143,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (804).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 993,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1655).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 536,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1197).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1007,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1670).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 10,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (671).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 200,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (861).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 952,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1614).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 781,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1443).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 829,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1491).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 811,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1473).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1113,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1785).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 605,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1266).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 14,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (675).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 503,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1164).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 224,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (885).jpg",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 15": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 15",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 592,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1253).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 260,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (921).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 350,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1011).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 18,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (679).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 47,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (708).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 720,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1381).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 517,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1178).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 434,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1095).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 326,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (987).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 582,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1243).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 52,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (713).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 717,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1378).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 461,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1122).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 487,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1148).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 821,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1483).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1012,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1675).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 538,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1199).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 672,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1333).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 234,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (895).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 651,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1312).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 219,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (880).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1182,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1858).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 921,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1583).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 244,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (905).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 698,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1359).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1149,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1822).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 131,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (792).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 694,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1355).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 660,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1321).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 140,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (801).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1136,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1808).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 887,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1549).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 463,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1124).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1022,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1686).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 747,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1408).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1187,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1863).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 675,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1336).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1082,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1752).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 357,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1018).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1154,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1828).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 896,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1558).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 876,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1538).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 40,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (701).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 160,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (821).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 621,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1282).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 252,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (913).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 986,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1648).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 155,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (816).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1110,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1782).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1059,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1728).jpg",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 16": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 16",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 162,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (823).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 923,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1585).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 73,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (734).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 259,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (920).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1163,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1837).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1001,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1663).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 622,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1283).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 984,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1646).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 974,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1636).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 59,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (720).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 484,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1145).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 360,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1021).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 293,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (954).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1051,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1719).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 581,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1242).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1114,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1786).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 864,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1526).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 373,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1034).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1189,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1865).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 138,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (799).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 212,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (873).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 609,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1270).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 770,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1432).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 687,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1348).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 647,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1308).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1162,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1836).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 92,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (753).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 98,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (759).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 184,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (845).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1108,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1780).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1174,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1850).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 791,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1453).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 853,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1515).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 314,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (975).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1024,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1689).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 541,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1202).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1097,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1769).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 87,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (748).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1175,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1851).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1077,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1747).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 330,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (991).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 237,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (898).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 597,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1258).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 45,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (706).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 472,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1133).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 880,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1542).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1035,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1700).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 56,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (717).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 625,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1286).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 339,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1000).jpg",
+        "correctAnswer": "c"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 17": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 17",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 124,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (785).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 466,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1127).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 723,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1384).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 327,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (988).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 911,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1573).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 125,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (786).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 251,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (912).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 473,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1134).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 898,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1560).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1164,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1838).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 572,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1233).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1194,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1870).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 888,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1550).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 703,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1364).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 607,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1268).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 332,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (993).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 335,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (996).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 352,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1013).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 547,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1208).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 428,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1089).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 739,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1400).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 416,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1077).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 136,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (797).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 427,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1088).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 542,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1203).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1020,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1684).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 299,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (960).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 433,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1094).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 662,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1323).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 835,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1497).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 500,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1161).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 495,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1156).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 570,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1231).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1130,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1802).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1057,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1726).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1044,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1711).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 813,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1475).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 159,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (820).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 800,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1462).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 902,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1564).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 727,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1388).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 25,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (686).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 646,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1307).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 737,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1398).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 531,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1192).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 721,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1382).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 567,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1228).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 41,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (702).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 942,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1604).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 719,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1380).jpg",
+        "correctAnswer": "c"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 18": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 18",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 679,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1340).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 557,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1218).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 809,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1471).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 519,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1180).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 370,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1031).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 286,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (947).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 656,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1317).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 780,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1442).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 483,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1144).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 364,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1025).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 632,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1293).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 123,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (784).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 375,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1036).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 818,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1480).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1080,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1750).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 969,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1631).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 508,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1169).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 771,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1433).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 946,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1608).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 595,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1256).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 37,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (698).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1034,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1699).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 267,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (928).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 680,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1341).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 302,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (963).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1045,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1712).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 11,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (672).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 991,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1653).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 402,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1063).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 462,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1123).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 797,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1459).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 766,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1428).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 229,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (890).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 684,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1345).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 947,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1609).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 964,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1626).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 118,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (779).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 552,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1213).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1148,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1821).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1032,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1697).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 497,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1158).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 195,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (856).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 284,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (945).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 196,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (857).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 548,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1209).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 564,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1225).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 568,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1229).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 854,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1516).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 815,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1477).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 593,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1254).jpg",
+        "correctAnswer": "a"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 19": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 19",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 569,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1230).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1029,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1694).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 13,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (674).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 669,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1330).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 882,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1544).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1014,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1677).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 163,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (824).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 847,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1509).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 524,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1185).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 715,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1376).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 134,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (795).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1072,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1742).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1081,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1751).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 990,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1652).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 383,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1044).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1010,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1673).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 996,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1658).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 452,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1113).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 505,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1166).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 856,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1518).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 255,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (916).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 673,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1334).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 377,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1038).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 963,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1625).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 546,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1207).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 241,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (902).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 385,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1046).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 165,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (826).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 43,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (704).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 323,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (984).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 749,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1410).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 198,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (859).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 706,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1367).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1134,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1806).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 119,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (780).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 102,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (763).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1118,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1790).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 899,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1561).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 30,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (691).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1091,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1763).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 93,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (754).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 50,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (711).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 19,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (680).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 161,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (822).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 301,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (962).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 502,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1163).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 879,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1541).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 319,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (980).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 674,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1335).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 122,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (783).jpg",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 20": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 20",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 1003,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1666).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 105,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (766).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1070,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1740).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1176,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1852).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 716,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1377).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 471,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1132).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 768,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1430).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 204,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (865).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 907,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1569).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 890,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1552).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 421,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1082).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1066,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1736).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 449,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1110).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 966,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1628).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 211,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (872).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 400,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1061).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 860,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1522).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 5,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (666).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 822,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1484).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 756,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1417).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 644,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1305).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 168,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (829).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 705,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1366).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 436,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1097).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 240,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (901).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 289,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (950).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1146,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1819).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1145,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1818).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 206,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (867).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 624,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1285).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 955,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1617).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 682,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1343).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 209,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (870).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 958,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1620).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 526,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1187).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 130,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (791).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 94,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (755).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 565,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1226).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 953,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1615).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 55,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (716).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1038,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1703).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1126,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1798).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 894,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1556).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 699,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1360).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1166,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1841).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 805,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1467).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 430,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1091).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1049,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1717).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 213,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (874).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 117,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (778).jpg",
+        "correctAnswer": "a"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 21": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 21",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 865,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1527).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 141,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (802).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 371,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1032).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 273,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (934).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 320,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (981).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 527,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1188).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 728,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1389).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 243,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (904).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 51,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (712).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 269,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (930).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 318,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (979).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 550,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1211).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 848,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1510).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 606,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1267).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 182,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (843).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 775,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1437).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 381,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1042).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 76,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (737).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 218,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (879).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1184,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1860).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1027,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1692).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 973,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1635).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 460,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1121).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 891,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1553).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 38,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (699).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 265,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (926).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 99,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (760).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 95,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (756).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 878,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1540).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 88,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (749).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 285,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (946).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1156,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1830).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 81,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (742).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1025,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1690).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 156,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (817).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 846,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1508).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 641,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1302).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 956,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1618).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 386,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1047).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 217,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (878).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 359,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1020).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 374,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1035).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 303,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (964).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 281,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (942).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 724,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1385).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 714,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1375).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 796,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1458).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 394,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1055).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 298,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (959).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1124,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1796).jpg",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 22": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 22",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 1177,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1853).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1129,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1801).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 913,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1575).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 803,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1465).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 512,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1173).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 362,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1023).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 69,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (730).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 761,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1423).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 975,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1637).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 89,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (750).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 236,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (897).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1135,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1807).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 940,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1602).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 642,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1303).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 91,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (752).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 489,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1150).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 734,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1395).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 478,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1139).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 470,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1131).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 316,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (977).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 114,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (775).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 67,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (728).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 187,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (848).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 29,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (690).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 690,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1351).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1188,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1864).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1191,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1867).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 981,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1643).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1095,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1767).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 493,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1154).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 110,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (771).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 171,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (832).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 741,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1402).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 442,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1103).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 663,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1324).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 916,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1578).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 325,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (986).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 532,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1193).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 799,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1461).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 404,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1065).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 874,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1536).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 743,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1404).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 48,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (709).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 849,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1511).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 6,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (667).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1040,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1706).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 479,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1140).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 425,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1086).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 20,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (681).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 777,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1439).jpg",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 23": {
+    "totalQuestions": 50,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 23",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 317,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (978).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 927,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1589).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 702,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1363).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 994,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1656).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 133,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (794).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 998,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1660).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 328,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (989).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 693,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1354).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 393,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1054).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 638,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1299).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 826,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1488).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 222,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (883).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 611,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1272).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 291,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (952).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 579,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1240).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1062,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1731).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1068,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1738).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 17,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (678).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 112,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (773).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 905,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1567).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 571,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1232).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 731,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1392).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 992,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1654).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 16,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (677).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1052,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1720).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 34,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (695).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 893,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1555).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 782,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1444).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 372,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1033).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 866,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1528).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1160,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1834).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 562,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1223).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 851,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1513).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1144,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1817).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 115,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (776).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1021,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1685).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 545,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1206).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 194,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (855).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 437,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1098).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 917,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1579).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 4,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (665).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 788,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1450).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 1030,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1695).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 627,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1288).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 451,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1112).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 354,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1015).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 474,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1135).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 1173,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1849).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 145,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (806).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1023,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1687).jpg",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  "Indian GK PYQ TEST 24": {
+    "totalQuestions": 47,
+    "time": 30,
+    "passingPercentage": 60,
+    "testAddedDate": "2025-10-11",
+    "title": "Mini Mock SSC PYQs (Indian GK) Test 24",
+    "description": "Practice previous year questions of Indian GK to ace your exams and interviews.",
+    "instructions": [
+      "Read each question carefully before answering.",
+      "You have a total of 30 minutes to complete the quiz.",
+      "Each correct answer awards you one point.",
+      "To pass the quiz, you need to score at least 60%."
+    ],
+    "questions": [
+      {
+        "id": 395,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1056).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 600,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1261).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 312,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (973).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 555,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1216).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 735,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1396).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 937,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1599).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1085,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1756).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 825,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1487).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 406,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1067).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 787,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1449).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 176,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (837).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 637,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1298).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 584,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1245).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 588,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1249).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 54,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (715).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 980,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1642).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 612,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1273).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 247,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (908).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 948,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1610).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 906,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1568).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1015,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1678).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 736,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1397).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 389,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1050).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 258,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (919).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 709,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1370).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 676,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1337).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 708,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1369).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 789,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1451).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1151,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1824).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 537,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1198).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 249,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (910).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 390,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1051).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 144,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (805).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 450,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1111).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 798,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1460).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 594,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1255).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 630,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1291).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 1133,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1805).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 841,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1503).jpg",
+        "correctAnswer": "a"
+      },
+      {
+        "id": 481,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1142).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 15,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (676).jpg",
+        "correctAnswer": "b"
+      },
+      {
+        "id": 397,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1058).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 201,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (862).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 288,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (949).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 1008,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1671).jpg",
+        "correctAnswer": "d"
+      },
+      {
+        "id": 884,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1546).jpg",
+        "correctAnswer": "c"
+      },
+      {
+        "id": 718,
+        "imageUrl": "PYQs/IGK_PYQs/PYQ (1379).jpg",
+        "correctAnswer": "c"
+      }
+    ]
+  }
+}
