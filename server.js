@@ -450,7 +450,7 @@ app.get('/get-user-data', async (req, res) => {
     let level = userData.level || 0;
     let score = userData.score || 0;
     let xp = userData.xp || 0;
-    let streaks = currentStreakDays || 0;
+    let streaks = userData.currentStreakDays || 0;
 
     let userFilteredData = {
       hp: hp,
