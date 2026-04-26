@@ -29,7 +29,7 @@ router.post("/actual", async (req, res) => {
 
   try {
     showLogs("🔹 Checking for existing guest user...");
-    const existingGuest = getUserByDevice(deviceId, ip);
+    const existingGuest = await getUserByDevice(deviceId, ip);
     showLogs("🔹 Existing guest check result:", existingGuest ? `Found: ${existingGuest.uid}` : "No existing guest found");
 
     // ----------------- CASE 1: Upgrade existing guest -----------------
@@ -343,6 +343,8 @@ router.post("/guest", async (req, res) => {
         level: 1,
         score: 0,
         streaks: 0,
+        deviceId: deviceId,
+  ip: ip,
       });
       showLogs(`✅ Firestore user document created successfully`);
     } catch (err) {

@@ -69,7 +69,7 @@ let questionBank = [];
 let mockIndex = {};
 let PYQs_data = {};
 let invalidQuestionOverrides = {};
-let questionBankData = questionBank;
+
 
 // -----------------------------
 // Helpers
@@ -176,7 +176,6 @@ app.get('/health', (req, res) => {
   return res.status(200).json(payload);
 });
 
-app.use('/auth', authRoutes);
 
 app.get('/secure-imgs/*',
   wrapAsync(authenticateRequest),
@@ -251,6 +250,7 @@ const randomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + mi
     ]);
 
     questionBank = Array.isArray(qDataRaw) ? qDataRaw : [];
+    questionBankData = questionBank;
     mockIndex = (mDataRaw && typeof mDataRaw === 'object') ? mDataRaw : {};
     PYQs_data = (pyqDataRaw && typeof pyqDataRaw === 'object') ? pyqDataRaw : {};
 
@@ -409,11 +409,7 @@ app.get('/check-user-status', async (req, res) => {
     return res.status(500).json({
       status: "error",
       message: "Internal server error during user status check",
-      error: {
-        message: error.message,
-        code: error.code,
-        stack: error.stack
-      }
+     error: process.env.NODE_ENV === 'development' ? error : { message: 'Internal error' }
     });
   }
 });
@@ -464,8 +460,8 @@ app.get('/get-user-data', async (req, res) => {
     let level = userData.level || 0;
     let score = userData.score || 0;
     let xp = userData.xp || 0;
-    let streaks = await updateUserStreak(userId);
-    showLogs("this is the streaks : ", streaks)
+    let streaks = currentStreakDays || 0;
+
     let userFilteredData = {
       hp: hp,
       xp: xp,
