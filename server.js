@@ -202,7 +202,7 @@ app.get('/secure-imgs/*',
 
 
 // server.js (New/Modified Code)
-
+app.use('/auth', wrapAsync(authAbuseGuard), authRoutes);
 // Wrap the common guards for cleaner use
 app.use(
     wrapAsync(authenticateRequest),
@@ -220,16 +220,6 @@ app.use('/reels', wrapAsync(questionAbuseGuard), reelsRoutes);
 // The 'updateUser' route likely only needs Authentication and Guest Check,
 // but NOT the questionAbuseGuard (unless it also fetches questions)
 app.use('/updateUser', wrapAsync(authenticateRequest), wrapAsync(guestExpiryGuard), updateRoutes);
-
-// Your AUTH routes (e.g., login, register) should ONLY use the AuthAbuseGuard.
-// They must NOT use authenticateRequest because the token isn't yet available.
-// NOTE: Assuming your authRoutes is mounted at '/auth' or similar.
-app.use('/auth', wrapAsync(authAbuseGuard), authRoutes);
-// custom middleware registration happens after files are ensured in init()
-
-// -----------------------------
-// Business logic (example: streak update)
-// -----------------------------
 
 
 
