@@ -416,6 +416,8 @@ router.post("/guest", async (req, res) => {
       showLogs("❌ Local data error details:", err.stack);
     }
 
+    // Bust any stale guard cache for this user on fresh login
+guardCache.setUser(userId, { ...firestoreData, isGuest: true, creationTime });
     showLogs(`🎉 Guest user creation completed successfully: ${userId}`);
     return res.json({
       success: true,
@@ -424,6 +426,7 @@ router.post("/guest", async (req, res) => {
       email,
       password,
     });
+
 
   } catch (err) {
     showLogs("❌ /guest-auth: Unhandled Error:", err.message);
