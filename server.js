@@ -64,7 +64,7 @@ let LEADERBOARD_COMBINED = 'leaderboardCombined';
 let APP_ROOT = process.cwd();
 
 
-
+let questionBankData = [];
 let questionBank = [];
 let mockIndex = {};
 let PYQs_data = {};

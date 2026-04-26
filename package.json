@@ -9,13 +9,20 @@
     "dev": "nodemon server.js",
     "test": "echo \"No tests configured\" && exit 0"
   },
-  "keywords": ["express", "firebase-admin", "crypto-js", "mcq", "svg", "leakproof"],
+  "keywords": [
+    "express",
+    "firebase-admin",
+    "crypto-js",
+    "mcq",
+    "svg",
+    "leakproof"
+  ],
   "author": "Your Name <you@example.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "crypto-js": "^4.2.0",
-    "dotenv": "^16.4.7",
+    "dotenv": "^16.6.1",
     "express": "^4.21.2",
     "firebase-admin": "^13.1.0"
   },
