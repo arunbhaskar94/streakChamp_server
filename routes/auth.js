@@ -274,17 +274,51 @@ router.post("/guest", async (req, res) => {
       showLogs("❌ Check error details:", err.stack);
     }
 
-    if (existingUser && existingUser.uid) { // ADDED uid CHECK
-      showLogs(`✅ Returning existing guest user for device ${deviceId}`);
-      showLogs(`✅ Existing user details:`, existingUser);
-      return res.json({
-        success: true,
-        message: "Existing guest user",
-        userId: existingUser.uid,
-        email: existingUser.email || "guestUserId",
-        password: existingUser.password || "guestUUID",
-      });
+  if (existingUser && existingUser.uid) {
+  showLogs(`✅ Returning existing guest user for device ${deviceId}`);
+
+  // ✅ Fetch the ORIGINAL creationTime from Firestore — never reset it
+  try {
+    const userSnap = await db.collection("users").doc(existingUser.uid).get();
+    const userData = userSnap.exists ? userSnap.data() : null;
+    const creationTime = userData?.creationTime;
+
+    if (creationTime) {
+      const elapsed = Date.now() - creationTime;
+      const ONE_DAY = 24 * 60 * 60 * 1000;
+
+      if (elapsed > ONE_DAY) {
+        showLogs(`⛔ Returning guest is expired. elapsed: ${elapsed}ms`);
+        return res.status(403).json({
+          success: false,
+          message: "Your free time period has ended. Please register to continue.",
+          code: "GUEST_EXPIRED"
+        });
+      }
+      showLogs(`✅ Guest still valid. elapsed: ${elapsed}ms, remaining: ${ONE_DAY - elapsed}ms`);
+    } else {
+      // creationTime missing — write it now using the local record's createdAt if available
+      // so we don't accidentally give a fresh 24h window
+      const fallbackCreationTime = existingUser.createdAt || Date.now();
+      await db.collection("users").doc(existingUser.uid).set({
+        creationTime: fallbackCreationTime,
+        isGuest: true
+      }, { merge: true });
+      showLogs(`✅ Set missing creationTime from local record: ${fallbackCreationTime}`);
     }
+  } catch (e) {
+    showLogs(`⚠️ Error checking guest expiry on return: ${e.message}`);
+    // Don't block on error — let guestExpiryGuard handle it
+  }
+
+  return res.json({
+    success: true,
+    message: "Existing guest user",
+    userId: existingUser.uid,
+    email: existingUser.email || "guestUserId",
+    password: existingUser.password || "guestUUID",
+  });
+}
 
     // Rest of the guest creation code remains the same...
     showLogs(`🆕 No existing guest found, creating new guest user...`);
@@ -416,8 +450,7 @@ router.post("/guest", async (req, res) => {
       showLogs("❌ Local data error details:", err.stack);
     }
 
-    // Bust any stale guard cache for this user on fresh login
-guardCache.setUser(userId, { ...firestoreData, isGuest: true, creationTime });
+   
     showLogs(`🎉 Guest user creation completed successfully: ${userId}`);
     return res.json({
       success: true,
