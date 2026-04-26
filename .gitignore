@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs and temp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+node_modules/
+# History folder
+.history/
+
+server copy.js
+server copy 2.js
+server2.js
+
+logs/
+fir kabhi/
+backups/
+action.txt
